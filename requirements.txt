@@ -1,0 +1,2 @@
+# No pip dependencies. Python 3.10+ with Tkinter.
+# Linux live scans require the OS NetworkManager/nmcli package.
