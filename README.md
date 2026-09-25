@@ -1,4 +1,4 @@
-# Sabaz WiFi Monitor — ESP32-style Python edition
+# ESP32 WiFi Monitor — ESP32-style Python edition
 
 **Coded by Cyber Security Engineer Mr Sabaz Ali Khan**
 
